@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Login | Adinkra Shop</title>
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="../css/style.css">
   <script defer src="js/login.js"></script>
 </head>
 <!-- Add class bg-image if you place assets/images/bg.jpg -->
